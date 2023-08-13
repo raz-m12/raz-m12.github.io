@@ -82,32 +82,32 @@
         <tr>
             <td>1</td>
             <td>Home Page</td>
-            <td>Display a clear and catchy headline that describes our value proposition.<br /> Include a captivating hero image or illustration that resonates with our brand.br  Add a login button that guides users to explore further.br</td>
+            <td>Display a clear and catchy headline that describes our value proposition.<br /> Include a captivating hero image or illustration that resonates with our brand.<br />  Add a login button that guides users to explore further.<br /></td>
         </tr>
         <tr>
             <td>2</td>
             <td>Documentation Page</td>
-            <td>Setup and host documentation pages via Github Pages.br  Organize the documentation in an easily understandable format.br  Provide comprehensive information on how the website is organized.br</td>
+            <td>Setup and host documentation pages via Github Pages.<br />  Organize the documentation in an easily understandable format.<br />  Provide comprehensive information on how the website is organized.<br /></td>
         </tr>
         <tr>
             <td>3</td>
             <td>Login/Signup Page</td>
-            <td>Offer a clear login and registration form with fields for email and password.br  Allow users to sign up using social media accounts for convenience.br  Provide password recovery options and ensure a secure login process.br</td>
+            <td>Offer a clear login and registration form with fields for email and password.<br />  Allow users to sign up using social media accounts for convenience.<br />  Provide password recovery options and ensure a secure login process.<br /></td>
         </tr>
         <tr>
             <td>4</td>
             <td>Dashboard Page</td>
-            <td>Design a clean and organized dashboard layout.br  Display account information and settings through intuitive and easy to use icons and widgets.br  Ensure easy navigation between different sections or features.br</td>
+            <td>Design a clean and organized dashboard layout.<br />  Display account information and settings through intuitive and easy to use icons and widgets.<br />  Ensure easy navigation between different sections or features.<br /></td>
         </tr>
         <tr>
             <td>5</td>
             <td>Logger&#39;s Page</td>
-            <td>Redirect container logging messages to the browser to easily read them.br Create an intuitive interface that allows users to easily navigate across the available features of the logging page.br  Decide on the technologies necessary to setup the real time interaction between the client and server.br</td>
+            <td>Redirect container logging messages to the browser to easily read them.<br /> Create an intuitive interface that allows users to easily navigate across the available features of the logging page.<br />  Decide on the technologies necessary to setup the real time interaction between the client and server.<br /></td>
         </tr>
         <tr>
             <td>6</td>
             <td>Docker Hub</td>
-            <td>Gain the technical expertise needed to setup a Docker Hub release through existing examples.br Setup dependent containers that need to be installed along-side Docker-UI.br  Exhaustive tests on multiple machines to ensure that the release works consistently across different Operating Systems.br</td>
+            <td>Gain the technical expertise needed to setup a Docker Hub release through existing examples.<br /> Setup dependent containers that need to be installed along-side Docker-UI.<br />  Exhaustive tests on multiple machines to ensure that the release works consistently across different Operating Systems.<br /></td>
         </tr>
     </tbody>
 </table>
