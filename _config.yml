@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 title: Docker UI
 description: "Project documentation for Docker UI"
+markdown: GFM
 github:
   private: false
   license:
