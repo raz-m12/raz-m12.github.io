@@ -1,3 +1,9 @@
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
 # User stories
 | User story ID | Priority | Type               | As a <type of user>          | I want to <perform some task>                                | So that I can <achieve some goal>                       | Final story |
 |---------------|----------|--------------------|------------------------------|--------------------------------------------------------------|---------------------------------------------------------|-------------|
