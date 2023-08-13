@@ -107,7 +107,7 @@
         <tr>
             <td>6</td>
             <td>Docker Hub</td>
-            <td>Gain the technical expertise needed to setup a Docker Hub release through existing examples.<br /> Setup dependent containers that need to be installed along-side Docker-UI.<br />  Exhaustive <br />s on multiple machines to ensure that the release works consistently across different Operating Systems.<br /></td>
+            <td>Gain the technical expertise needed to setup a Docker Hub release through existing examples.<br /> Setup dependent containers that need to be installed along-side Docker-UI.<br />  Exhaustive tests on multiple machines to ensure that the release works consistently across different Operating Systems.<br /></td>
         </tr>
     </tbody>
 </table>
