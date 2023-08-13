@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 95%;
+/* Set the maximum width for tables */
+table {
+  max-width: 100%;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
 }
