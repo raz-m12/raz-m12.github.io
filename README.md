@@ -1,2 +1,5 @@
-# User stories
-| a | b | c |
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
