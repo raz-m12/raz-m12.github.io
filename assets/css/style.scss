@@ -4,12 +4,6 @@
 @import "{{ site.theme }}";
 
 /* Set the maximum width for tables */
-table {
-  max-width: 100%;
-  width: 100%;
-  margin-bottom: 1rem;
-  border-collapse: collapse;
-}
 #main-content {
   width: 850px;
 }
