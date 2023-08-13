@@ -102,7 +102,7 @@
         <tr>
             <td>5</td>
             <td>Logger&#39;s Page</td>
-            <td>Redirect container logging messages to the browser to easily read them.<br /> Create an intuitive interface that allows users to easily navigate across the available features of the logging page.<br />  Decide on the technologies necessary to setup the real time interaction between the client and server.<br /></td>
+            <td>Redirect container logging messages to the browser to easily read them.<br /> Create an intuitive interface that allows users to easily navigate across the available features.<br />  Decide on the technologies necessary to setup the real time interaction between the client and server.<br /></td>
         </tr>
         <tr>
             <td>6</td>
